@@ -4,19 +4,22 @@ Created on 4 dic. 2019
 
 @author: Jaime D.
 '''
-
-
+#Sript para el cálculo manual de COMFA. Los datos de entrada deben ser ingresados en "Datos de Entrada"
+#Contacto: jj.me.dario@gmail.com
 
 import numpy as np
+
 #-------CÁLCULO DE COMFA-------
+
 #Balance energetico:
+
 #S=M+Rabs-Conv-E-L
 
 #Datos de entrada:
 
 Ma=88.05            #Tasa metabólica (W/m**2) 1 met = 58 W/m**2 (Valor extraido de BioMet, el mismo que se uso para el cálculo de PMV)
-r_c_dato=112.2       #Resistencia del arropamiento(s/m) - 1clo = 187 s/m, se toma el valor 0.6clo = 112.2 s/m
-#P=150               #Permeabilidad de la ropa - Valor tomado de la Tabla 2, fila 2 de Brown & Gillespie 1986
+r_c_dato=112.2      #Resistencia del arropamiento(s/m) - 1clo = 187 s/m, se toma el valor 0.6clo = 112.2 s/m
+#P=150              #Permeabilidad de la ropa - Valor tomado de la Tabla 2, fila 2 de Brown & Gillespie 1986
 P=220               #Permeabilidad de la ropa (Valor para una remera o T shirt - An Introduction to Enviromental Biophysics, table 8.2)
 
 Ta=30.3401          #Temperatura ambiente
