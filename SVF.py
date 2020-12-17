@@ -4,7 +4,11 @@ Created on 29 nov. 2019
 
 @author: Jaime D.
 '''
-#---PROGRAMA PARA EL CÁLCULO DEL SKY VIEW FACTOR (SVF) A PARTIR DE IMÁGENES---#
+#---PROGRAMA PARA ASISTENCIA AL CÁLCULO DEL SKY VIEW FACTOR (SVF) A PARTIR DE IMÁGENES---#
+
+#Usar con cuidado de instalar librerías necesarias y verificar las rutas hacia los archivos
+#**Este script solo binariza y contabiliza píxeles**
+#Consultas al autor: jj.me.dario@gmail.com
 
 #Binarización de la imágen
 
