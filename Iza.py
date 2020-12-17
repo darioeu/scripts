@@ -6,6 +6,11 @@ Created on 31 ene. 2020
 '''
 #import numpy as np
 
+#Script para el cálculo manual de IZA. Los datos de entrada deben ser ingresados en "Datos de Entrada"
+#Contacto: jj.me.dario@gmail.com
+
+#-------CÁLCULO DE IZA-------
+
 #Datos de Entrada
 Rad_T=292.21547
 Ta=32.64183
