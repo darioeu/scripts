@@ -8,6 +8,7 @@ Created on 29 nov. 2019
 
 #Usar con cuidado de instalar librerías necesarias y verificar las rutas hacia los archivos
 #**Este script solo binariza y contabiliza píxeles**
+#Las imágenes para correr el script pueden encontrarse en: https://github.com/darioeu/scripts/issues/1
 #Consultas al autor: jj.me.dario@gmail.com
 
 #Binarización de la imágen
